@@ -27,6 +27,7 @@
 <body>
 
 	<div align="center" id="main_form">
+		<h1>Dipanjan Maity</h1>
 		<h2>Registration Succeeded !</h2>
 		
 		<span>Full Name:</span> <span>${user.name}</span><br/>
